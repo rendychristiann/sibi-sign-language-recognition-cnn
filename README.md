@@ -26,6 +26,7 @@ This repository serves as a project repository of "SIBI Indonesian Sign Language
 We use ASL (SIBI based) dataset from Kaggle by grassknoted:
 - https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 
+## Installation
 ```bash
 git clone https://github.com/rendychristiann/sibi-sign-language-recognition
 cd sibi-sign-language-recognition
