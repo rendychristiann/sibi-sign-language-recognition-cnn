@@ -21,6 +21,7 @@ This repository serves as a project repository of "SIBI Indonesian Sign Language
 
 ## Tech Stack
 * Python (.ipynb & .py format)
+* Tensorflow Keras (framework)
 
 ## Dataset 
 We use ASL (SIBI based) dataset from Kaggle by grassknoted:
