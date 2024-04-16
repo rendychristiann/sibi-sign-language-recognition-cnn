@@ -6,7 +6,7 @@
 This repository serves as a project repository of "SIBI Indonesian Sign Language Recognition System using CNN" by Team 39 IBM AAI as a project assignment from Advance AI Studi Independen Kampus Merdeka by Infinite Learning
 
 ## Table of Contents
-- [Mentee Information](#Mentee-Information)
+- [Team Members](#Team-Members)
 - [Tech Stack](#Tech-Stack)
 - [Dataset](#Dataset)
 - [Installation](#Installation)
