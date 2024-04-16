@@ -1,5 +1,5 @@
 # Infinite Learning - IBM Advance AI Macro Project
-# # Author: Team 39 IBM AAI
+## Author: Team 39 IBM AAI
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/rendychristiann)
 
